@@ -1,0 +1,138 @@
+[
+  {
+    "numero": 1,
+    "nombre": "FP",
+    "profesor": {
+      "cedula": 123,
+      "nombre": "Lucas Perea",
+      "profesion": "Ingeniero de sistemas",
+      "años_experiencia": 3,
+      "email": "lucas.perea@misiontic.gov.co"
+    },
+    "estudiantes": [
+      {
+        "cedula": 234,
+        "nombre": "Lina",
+        "apellido": "Martinez",
+        "email": "lina.martinez@misiontic.gov.co",
+        "departamento": "CU",
+        "municipio": "BO",
+        "notas": [
+          3.4,
+          3.8,
+          4.4
+        ],
+        "nota_final": 0
+      },
+      {
+        "cedula": 345,
+        "nombre": "Carlos",
+        "apellido": "Perez",
+        "email": "carlos.perez@misiontic.gov.co",
+        "departamento": "AT",
+        "municipio": "BA",
+        "notas": [
+          1.1,
+          1.2,
+          1.4
+        ],
+        "nota_final": 0
+      }
+    ]
+  },
+  {
+    "numero": 2,
+    "nombre": "FP",
+    "profesor": {
+      "cedula": 123,
+      "nombre": "Lucas Perea",
+      "profesion": "Ingeniero de sistemas",
+      "años_experiencia": 3,
+      "email": "lucas.perea@misiontic.gov.co"
+    },
+    "estudiantes": [
+      {
+        "cedula": 456,
+        "nombre": "Daniel",
+        "apellido": "Rodriguez",
+        "email": "daniel.rodriguez@misiontic.gov.co",
+        "departamento": "RI",
+        "municipio": "PE",
+        "notas": [
+          2.4,
+          2.2,
+          2.7
+        ],
+        "nota_final": 0
+      }
+    ]
+  },
+  {
+    "numero": 3,
+    "nombre": "IN",
+    "profesor": {
+      "cedula": 698,
+      "nombre": "Mariana Gonzalez",
+      "profesion": "Licenciada en Lenguas Modernas",
+      "años_experiencia": 2,
+      "email": "mariana.gonzalez@misiontic.gov.co"
+    },
+    "estudiantes": [
+      {
+        "cedula": 234,
+        "nombre": "Lina",
+        "apellido": "Martinez",
+        "email": "lina.martinez@misiontic.gov.co",
+        "departamento": "CU",
+        "municipio": "BO",
+        "notas": [
+          4.5,
+          5,
+          3.9
+        ],
+        "nota_final": 0
+      },
+      {
+        "cedula": 345,
+        "nombre": "Carlos",
+        "apellido": "Perez",
+        "email": "carlos.perez@misiontic.gov.co",
+        "departamento": "AT",
+        "municipio": "BA",
+        "notas": [
+          3.4,
+          4.1,
+          3.9
+        ],
+        "nota_final": 0
+      }
+    ]
+  },
+  {
+    "numero": 4,
+    "nombre": "IN",
+    "profesor": {
+      "cedula": 123,
+      "nombre": "Lucas Perea",
+      "profesion": "Ingeniero de sistemas",
+      "años_experiencia": 3,
+      "email": "lucas.perea@misiontic.gov.co"
+    },
+    "estudiantes": [
+      {
+        "cedula": 456,
+        "nombre": "Daniel",
+        "apellido": "Rodriguez",
+        "email": "daniel.rodriguez@misiontic.gov.co",
+        "departamento": "RI",
+        "municipio": "PE",
+        "notas": [
+          2.1,
+          2.4,
+          3.4
+        ],
+        "nota_final": 0
+      }
+    ]
+  }
+]
